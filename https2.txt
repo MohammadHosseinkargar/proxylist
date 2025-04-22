@@ -1,6 +1,9 @@
+5.161.65.47:8888:United States
 5.161.104.22:8888:United States
 5.161.70.13:8888:United States
+5.161.72.12:8888:United States
 134.209.108.22:8888:Singapore
+134.209.108.84:8888:Singapore
 134.209.108.165:8888:Singapore
 134.209.108.167:8888:Singapore
 84.17.47.150:9002:The Netherlands
@@ -11,6 +14,9 @@
 84.17.47.126:9002:The Netherlands
 84.17.47.125:9002:The Netherlands
 84.17.47.124:9002:The Netherlands
+5.161.156.91:8888:United States
+5.161.42.38:8888:United States
+178.128.221.182:8888:Singapore
 5.161.155.198:8888:United States
 134.209.99.88:8888:Singapore
 192.248.152.39:8888:United Kingdom
@@ -21,6 +27,7 @@
 155.138.130.128:8888:Canada
 45.63.97.57:8888:United Kingdom
 155.138.159.63:8888:Canada
+141.147.9.254:443:Germany
 193.176.84.16:9002:Romania
 193.176.84.19:9002:Romania
 193.176.84.20:9002:Romania
@@ -31,18 +38,14 @@
 65.108.150.56:8443:Finland
 102.223.20.217:443:Ghana
 194.67.91.153:443:Russia
-203.57.51.53:443:Australia
 129.151.160.199:443:South Africa
-197.243.20.178:443:Rwanda
 202.61.204.51:443:Germany
 74.103.66.15:443:United States
 31.28.4.192:443:Russia
 167.99.124.118:443:United States
 4.188.236.47:443:India
 95.179.197.240:8888:United Kingdom
-196.223.129.21:443:South Africa
 103.37.111.253:10086:Japan
-78.28.152.113:443:Bosnia and Herzegovina
 206.81.26.113:443:Germany
 23.88.59.163:443:Germany
 23.106.249.54:443:Singapore
@@ -55,7 +58,6 @@
 147.182.180.242:443:United States
 154.65.39.7:443:Senegal
 46.101.115.59:443:Germany
-204.48.31.203:443:United States
 154.65.39.8:443:Senegal
 207.244.89.162:443:United States
 103.37.111.253:10089:Japan
@@ -67,6 +69,7 @@
 116.203.117.22:443:Germany
 65.108.104.111:443:Finland
 167.172.78.155:8888:Singapore
+78.141.244.9:8888:United Kingdom
 78.141.193.27:8888:United Kingdom
 184.168.123.21:443:Singapore
 128.199.207.200:443:Singapore
@@ -89,7 +92,6 @@
 138.199.35.195:9002:United States
 143.198.206.72:8888:Singapore
 192.53.114.26:443:Singapore
-193.176.84.24:9002:Romania
 193.176.84.32:9002:Romania
 193.176.84.34:9002:Romania
 193.176.84.35:9002:Romania
@@ -105,7 +107,6 @@
 138.199.35.217:9002:United States
 8.218.211.134:3128:Hong Kong
 167.71.166.28:8443:United States
-205.178.137.247:8443:United States
 156.146.59.28:9002:United States
 156.146.59.29:9002:United States
 156.146.59.50:9002:United States
@@ -244,8 +245,8 @@
 102.130.125.86:443:South Africa
 130.180.208.145:443:France
 8.213.150.45:3128:Singapore
-68.208.221.179:443:United States
 79.174.12.190:443:Russia
+203.189.96.232:443:Japan
 159.65.244.233:443:United States
 20.205.138.223:443:Hong Kong
 156.146.59.49:9002:United States
@@ -416,7 +417,6 @@
 23.106.56.54:425:United Kingdom
 207.244.89.161:425:United States
 207.244.89.162:425:United States
-207.244.89.161:436:United States
 13.66.206.110:443:United States
 40.113.199.101:443:United States
 52.184.228.103:443:United States
@@ -427,6 +427,7 @@
 188.166.90.39:8888:The Netherlands
 188.166.87.45:8888:The Netherlands
 188.166.82.32:8888:The Netherlands
+91.107.230.61:8888:Germany
 46.246.96.14:143:Sweden
 159.65.245.255:443:United States
 162.210.194.3:461:United States
@@ -629,7 +630,6 @@
 23.106.56.22:431:United Kingdom
 207.244.71.84:425:United States
 23.106.249.39:425:Singapore
-207.244.89.166:1015:United States
 23.106.56.52:1015:United Kingdom
 23.106.249.39:1015:Singapore
 207.244.89.162:838:United States
@@ -699,7 +699,6 @@
 23.106.249.37:901:Singapore
 23.106.249.39:901:Singapore
 51.158.253.45:436:France
-207.244.89.161:901:United States
 51.158.253.77:436:France
 23.106.249.54:1015:Singapore
 23.106.249.35:1015:Singapore
@@ -719,7 +718,6 @@
 51.158.253.154:471:France
 51.158.253.77:471:France
 162.210.194.2:471:United States
-51.158.253.113:471:France
 51.158.253.128:471:France
 207.244.71.84:471:United States
 207.244.89.161:471:United States
@@ -764,7 +762,6 @@
 51.158.253.45:726:France
 23.106.56.53:726:United Kingdom
 51.158.253.130:726:France
-207.244.89.161:726:United States
 51.158.252.252:726:France
 23.106.249.52:726:Singapore
 23.106.249.54:726:Singapore
@@ -871,7 +868,6 @@
 23.106.249.54:431:Singapore
 23.106.249.53:431:Singapore
 23.106.56.19:431:United Kingdom
-207.244.89.161:431:United States
 207.244.89.162:431:United States
 51.158.253.152:431:France
 51.158.253.154:431:France
@@ -914,7 +910,6 @@
 51.158.253.130:428:France
 23.106.249.39:955:Singapore
 162.210.194.3:428:United States
-207.244.89.161:428:United States
 51.158.253.120:428:France
 207.244.71.84:428:United States
 51.158.253.152:428:France
@@ -925,7 +920,6 @@
 23.106.249.53:428:Singapore
 23.106.56.53:428:United Kingdom
 23.106.56.43:428:United Kingdom
-207.244.89.166:428:United States
 23.106.249.36:428:Singapore
 23.106.249.39:428:Singapore
 51.158.253.113:428:France
@@ -942,7 +936,6 @@
 51.158.253.130:955:France
 23.106.249.35:955:Singapore
 162.210.194.1:955:United States
-207.244.89.161:955:United States
 51.158.253.153:955:France
 23.106.249.37:955:Singapore
 162.210.194.2:955:United States
@@ -1205,17 +1198,10 @@
 138.199.35.210:9002:United States
 138.199.36.160:9002:Germany
 128.199.195.19:8888:Singapore
-65.49.2.84:31337:United States
-65.49.14.154:30531:United States
 201.238.248.135:443:Chile
 87.249.132.158:9002:Germany
-104.129.194.43:11263:United States
-104.129.194.45:11743:United States
-165.225.72.38:10228:Germany
-65.49.14.154:11298:United States
 148.233.136.213:443:Mexico
-133.167.65.66:443:Japan
-65.49.2.84:60945:United States
+64.62.219.84:60635:United States
 23.106.56.43:483:United Kingdom
 23.106.249.52:483:Singapore
 23.106.56.54:483:United Kingdom
@@ -1238,7 +1224,6 @@
 23.106.56.22:483:United Kingdom
 51.158.253.77:483:France
 51.158.200.82:483:France
-207.244.89.161:483:United States
 51.158.253.130:483:France
 51.158.253.128:483:France
 51.158.253.45:483:France
@@ -1256,40 +1241,18 @@
 23.106.249.54:483:Singapore
 162.210.194.1:483:United States
 23.106.249.37:483:Singapore
-65.49.14.154:14351:United States
-65.49.2.84:18158:United States
-65.49.14.154:10012:United States
 54.37.72.89:443:Germany
-65.49.14.154:17284:United States
-65.49.14.154:10016:United States
-65.49.68.84:56811:United States
 130.245.32.202:443:United States
-65.49.68.84:17729:United States
-65.49.2.84:20016:United States
-64.62.219.84:62885:United States
-64.62.219.84:14552:United States
-64.62.219.84:20149:United States
+64.62.219.84:19644:United States
 47.243.181.85:8084:United States
-65.49.14.154:43906:United States
-64.62.219.84:13808:United States
-65.49.68.84:20049:United States
-64.62.219.84:61914:United States
-65.49.68.84:43619:United States
+65.49.2.84:60644:United States
 47.243.181.85:8081:Taiwan
-65.49.14.154:31162:United States
-65.49.68.84:59755:United States
-65.49.68.84:51392:United States
 47.243.181.85:41296:Taiwan
-64.62.219.84:37573:United States
-65.49.14.154:24254:United States
-65.49.68.84:25154:United States
-64.62.219.84:37074:United States
-64.62.219.84:18722:United States
-65.49.14.154:26061:United States
+65.49.2.84:29400:United States
+65.49.14.154:49354:United States
+65.49.2.84:60771:United States
 102.134.130.41:443:Ghana
-64.62.219.84:40626:United States
-65.49.2.84:32289:United States
-65.49.68.84:40384:United States
+65.49.2.84:56016:United States
 162.210.194.3:1287:United States
 162.210.194.2:1287:United States
 51.158.253.115:1287:France
@@ -1329,92 +1292,55 @@
 23.106.249.36:1287:Singapore
 51.158.200.82:1287:France
 23.106.249.54:1287:Singapore
-65.49.2.84:63496:United States
+65.49.68.84:59151:United States
 103.148.245.155:7777:Hong Kong
-65.49.2.84:55209:United States
-65.49.14.154:47600:United States
-65.49.14.154:16926:United States
-65.49.14.154:19053:United States
+65.49.2.84:45091:United States
 62.210.15.199:443:France
-65.49.68.84:42864:United States
-65.49.14.154:30315:United States
-65.49.14.154:45311:United States
-65.49.2.84:22740:United States
-65.49.2.84:31066:United States
-65.49.2.84:16851:United States
-65.49.68.84:32556:United States
-65.49.2.84:34596:United States
-65.49.2.84:52084:United States
-65.49.2.84:26019:United States
-65.49.14.154:49485:United States
-64.62.219.84:44339:United States
-65.49.2.84:42845:United States
-65.49.2.84:12317:United States
+65.49.14.154:62271:United States
+65.49.2.84:63514:United States
+65.49.2.84:24334:United States
+65.49.14.154:48540:United States
 51.159.14.232:1022:France
-65.49.14.154:30301:United States
 51.158.61.236:436:France
 152.230.215.123:443:Chile
-65.49.68.84:13988:United States
-64.62.219.84:15509:United States
-65.49.14.154:38460:United States
-64.62.219.84:12941:United States
-65.49.2.84:28117:United States
-65.49.68.84:53510:United States
-65.49.2.84:36957:United States
-64.62.219.84:45628:United States
-65.49.68.84:36064:United States
-65.49.14.154:43749:United States
+64.62.219.84:38163:United States
+64.62.219.84:20085:United States
+65.49.68.84:34640:United States
+65.49.68.84:21811:United States
+65.49.14.154:56277:United States
+65.49.14.154:44437:United States
+65.49.2.84:46285:United States
 51.159.14.232:1287:France
-65.49.14.154:26055:United States
-65.49.2.84:29985:United States
-65.49.68.84:16920:United States
-65.49.14.154:52251:United States
-65.49.2.84:37554:United States
-65.49.14.154:33630:United States
-65.49.14.154:25662:United States
-65.49.68.84:50833:United States
+64.62.219.84:38681:United States
+65.49.68.84:36944:United States
 51.159.14.232:431:France
+65.49.68.84:18542:United States
+65.49.68.84:20207:United States
 51.159.98.170:1007:France
 51.158.61.236:431:France
 51.159.14.232:911:France
-65.49.68.84:52115:United States
 51.159.14.232:425:France
-65.49.68.84:12066:United States
 51.158.61.236:911:France
 51.159.14.232:1015:France
-64.62.219.84:14375:United States
-65.49.14.154:59120:United States
-65.49.2.84:23673:United States
-65.49.68.84:31213:United States
-65.49.2.84:14631:United States
 143.110.229.181:8888:United States
-65.49.68.84:50133:United States
+64.62.219.84:59746:United States
 51.159.97.249:1007:France
 51.159.97.108:1007:France
-65.49.68.84:24969:United States
-65.49.14.154:30605:United States
-64.62.219.84:48839:United States
-65.49.14.154:31351:United States
-64.62.219.84:24548:United States
-80.149.142.142:443:Germany
-65.49.2.84:41351:United States
-65.49.14.154:42703:United States
-65.49.2.84:45197:United States
+64.62.219.84:47930:United States
+64.62.219.84:28341:United States
+65.49.68.84:59600:United States
+65.49.14.154:33263:United States
 51.158.61.236:483:France
 51.159.97.108:1015:France
-65.49.14.154:44736:United States
-65.49.68.84:17011:United States
+64.62.219.84:40016:United States
 51.158.61.236:901:France
-64.62.219.84:25033:United States
-65.49.68.84:51352:United States
+65.49.68.84:29384:United States
 51.158.61.236:1083:France
-65.49.68.84:48560:United States
-64.62.219.84:20911:United States
 51.159.97.249:1015:France
 51.159.98.170:1015:France
-64.62.219.84:40414:United States
 51.159.221.14:1015:France
-64.62.219.84:22486:United States
+64.62.219.84:11054:United States
+65.49.68.84:34989:United States
 51.159.97.108:425:France
 51.158.61.236:425:France
 51.158.61.236:1287:France
@@ -1423,9 +1349,7 @@
 51.159.97.108:428:France
 51.158.61.236:428:France
 51.159.14.232:428:France
-65.49.14.154:19766:United States
-65.49.2.84:27337:United States
-65.49.68.84:35975:United States
+65.49.2.84:38232:United States
 51.159.221.14:1287:France
 51.158.61.236:921:France
 51.159.97.249:483:France
@@ -1462,19 +1386,11 @@
 51.158.61.236:1007:France
 51.159.221.14:1007:France
 51.159.97.108:483:France
-65.49.2.84:45521:United States
-65.49.68.84:54071:United States
-65.49.14.154:31682:United States
-64.62.219.84:40540:United States
-65.49.14.154:61393:United States
+64.62.219.84:26042:United States
 51.159.97.249:428:France
-65.49.68.84:36065:United States
 51.159.221.14:921:France
 51.159.14.232:436:France
-65.49.68.84:25109:United States
-65.49.68.84:48000:United States
-65.49.68.84:60002:United States
-65.49.14.154:13239:United States
+65.49.2.84:27624:United States
 51.159.97.249:431:France
 51.159.98.170:911:France
 51.159.98.170:428:France
@@ -1486,59 +1402,38 @@
 51.159.98.170:901:France
 51.159.97.249:901:France
 51.159.221.14:901:France
+64.62.219.84:10117:United States
 51.159.221.14:428:France
 51.159.221.14:471:France
 51.159.97.108:431:France
 51.159.221.14:423:France
 51.159.98.170:1022:France
 51.158.61.236:1022:France
-65.49.14.154:16315:United States
-64.62.219.84:14746:United States
-65.49.2.84:37154:United States
-65.49.2.84:35805:United States
-64.62.219.84:17468:United States
-65.49.14.154:45944:United States
+65.49.14.154:18877:United States
+65.49.2.84:59776:United States
+64.62.219.84:63826:United States
 51.159.97.108:1022:France
 51.159.97.249:838:France
-65.49.2.84:52833:United States
-64.62.219.84:25058:United States
-65.49.2.84:33383:United States
-64.62.219.84:62963:United States
-65.49.68.84:43420:United States
+65.49.2.84:39696:United States
+65.49.14.154:53144:United States
 51.159.221.14:425:France
 51.158.61.236:423:France
-104.129.194.44:11677:United States
-65.49.14.154:51504:United States
-65.49.68.84:15577:United States
-103.241.129.229:8443:Japan
+65.49.68.84:38630:United States
 51.159.221.14:443:France
 51.159.98.170:425:France
 51.159.98.170:423:France
-64.62.219.84:31438:United States
 51.159.221.14:483:France
-103.241.129.5:8443:Japan
-103.241.129.12:8443:Japan
-103.241.129.13:8443:Japan
-103.241.129.17:8443:Japan
-103.241.129.18:8443:Japan
+103.241.129.2:8443:Japan
+103.241.129.7:8443:Japan
 103.241.129.21:8443:Japan
-103.241.129.22:8443:Japan
 103.241.129.23:8443:Japan
+103.241.129.183:8443:Japan
 103.241.129.187:8443:Japan
-103.241.129.188:8443:Japan
-103.241.129.190:8443:Japan
-103.241.129.191:8443:Japan
-103.241.129.209:8443:Japan
-103.241.129.214:8443:Japan
 103.241.129.232:8443:Japan
-103.241.129.244:8443:Japan
-103.241.129.245:8443:Japan
-103.241.129.246:8443:Japan
-103.241.129.254:8443:Japan
-103.241.130.0:8443:Japan
-103.241.130.1:8443:Japan
-103.241.130.2:8443:Japan
-103.241.130.3:8443:Japan
+103.241.129.238:8443:Japan
+103.241.129.252:8443:Japan
+103.241.130.4:8443:Japan
+103.241.130.7:8443:Japan
 51.159.97.249:1083:France
 51.159.98.170:921:France
 51.159.97.249:921:France
@@ -1547,132 +1442,79 @@
 47.243.181.85:41310:Taiwan
 51.159.221.14:436:France
 51.159.14.232:471:France
-65.49.14.154:62136:United States
 51.159.221.14:1022:France
-64.62.219.84:31704:United States
 51.159.97.108:471:France
-65.49.2.84:60631:United States
 51.159.97.249:461:France
+65.49.2.84:33251:United States
 51.159.97.108:423:France
 51.159.97.249:423:France
-65.49.68.84:25788:United States
-65.49.2.84:29792:United States
-65.49.2.84:53577:United States
-65.49.68.84:32742:United States
 51.159.97.249:955:France
-65.49.14.154:58156:United States
-103.241.129.29:8443:Japan
-103.241.129.180:8443:Japan
-103.241.129.198:8443:Japan
-103.241.129.206:8443:Japan
-103.241.129.211:8443:Japan
-103.241.129.218:8443:Japan
+103.241.129.3:8443:Japan
+103.241.129.11:8443:Japan
+103.241.129.186:8443:Japan
+103.241.129.202:8443:Japan
+103.241.129.207:8443:Japan
 103.241.129.219:8443:Japan
-103.241.129.222:8443:Japan
-103.241.129.223:8443:Japan
-103.241.129.225:8443:Japan
-103.241.129.227:8443:Japan
-103.241.129.230:8443:Japan
-103.241.129.231:8443:Japan
-103.241.129.233:8443:Japan
-103.241.129.235:8443:Japan
+103.241.129.226:8443:Japan
+103.241.129.241:8443:Japan
 103.241.129.250:8443:Japan
 51.159.221.14:726:France
-103.241.129.0:8443:Japan
-64.62.219.84:39219:United States
-65.49.68.84:20198:United States
-65.49.68.84:58216:United States
-103.241.129.31:8443:Japan
-103.241.129.208:8443:Japan
-103.241.129.189:8443:Japan
-64.62.219.84:44672:United States
+103.241.128.136:8443:Japan
+103.241.129.213:8443:Japan
+64.62.219.84:58581:United States
 143.107.205.72:443:Brazil
-64.62.219.84:57803:United States
-65.49.2.84:42023:United States
-110.42.36.147:8888:United States
-64.62.219.84:56843:United States
-65.49.14.154:54057:United States
+64.62.219.84:60975:United States
 51.210.148.119:443:France
+65.49.68.84:61045:United States
 209.38.148.139:8888:United States
-65.49.2.84:44196:United States
 137.184.224.125:8888:United States
-47.243.181.85:41797:Brazil
-64.62.219.84:31886:United States
-64.62.219.84:55827:United States
-165.225.113.220:10227:Singapore
-65.49.2.84:29263:United States
+65.49.2.84:30485:United States
+65.49.68.84:51901:United States
+65.49.68.84:47529:United States
 103.37.111.253:10087:Japan
-65.49.2.84:40295:United States
 123.31.29.158:443:Vietnam
-65.49.68.84:58933:United States
-65.49.68.84:38915:United States
-196.1.95.124:443:Senegal
-104.129.194.46:11726:United States
 104.248.130.209:3129:Germany
-64.62.219.84:38531:United States
-65.49.2.84:39227:United States
-65.49.2.84:49761:United States
+65.49.2.84:45981:United States
 5.135.103.166:443:Belgium
-65.49.2.84:59809:United States
-65.49.2.84:52011:United States
-104.129.194.45:11273:United States
-65.49.2.84:39188:United States
-205.178.137.53:8443:United States
-65.49.2.84:52315:United States
-64.62.219.84:49663:United States
-65.49.2.84:15277:United States
+65.49.68.84:12169:United States
 212.58.135.9:8443:United States
 212.58.135.10:8443:United States
-212.58.132.189:8443:United States
-212.58.132.188:8443:United States
-205.178.136.118:8447:United States
-65.49.14.154:46274:United States
-64.62.219.84:58069:United States
-65.49.2.84:41101:United States
-65.49.68.84:35905:United States
-65.49.2.84:18049:United States
-65.49.2.84:34997:United States
-65.49.2.84:50627:United States
-65.49.2.84:33573:United States
+104.129.194.46:11500:United States
+65.49.68.84:40255:United States
+64.62.219.84:26943:United States
 168.205.255.238:443:Brazil
-65.49.2.84:44703:United States
+65.49.2.84:51817:United States
+205.178.144.137:8447:United States
+64.62.219.84:38431:United States
 23.106.56.38:425:United Kingdom
 23.106.56.11:461:United Kingdom
 23.106.56.36:461:United Kingdom
 23.106.56.37:461:United Kingdom
 23.106.56.38:461:United Kingdom
 23.106.56.11:431:United Kingdom
-64.62.219.84:46633:United States
-64.62.219.84:38353:United States
-65.49.68.84:44041:United States
 23.106.56.11:1015:United Kingdom
 23.106.56.36:1015:United Kingdom
 23.106.56.37:1015:United Kingdom
 23.106.56.38:1015:United Kingdom
 23.106.56.11:1083:United Kingdom
-64.62.219.84:59163:United States
+65.49.68.84:59507:United States
 23.106.56.11:436:United Kingdom
-65.49.2.84:60755:United States
-65.49.68.84:53717:United States
-64.62.219.84:59051:United States
-64.62.219.84:58655:United States
+65.49.68.84:39813:United States
+64.62.219.84:57312:United States
 51.254.132.238:443:France
 205.178.137.27:8447:United States
-65.49.2.84:50137:United States
-65.49.2.84:60217:United States
-65.49.68.84:47221:United States
+64.62.219.84:33131:United States
 23.106.56.11:483:United Kingdom
+65.49.68.84:47543:United States
 23.106.56.11:1287:United Kingdom
 23.106.56.11:911:United Kingdom
 23.106.56.11:471:United Kingdom
 23.106.56.11:905:United Kingdom
 51.159.97.108:443:France
 23.106.56.11:921:United Kingdom
-65.49.14.154:14254:United States
 34.81.72.31:443:Taiwan
 103.242.15.36:7777:Hong Kong
-65.49.68.84:34800:United States
-65.49.14.154:34034:United States
+65.49.2.84:22973:United States
 51.159.98.170:443:France
 51.159.221.44:443:France
 51.159.221.44:1083:France
@@ -1695,7 +1537,6 @@
 51.159.221.44:1007:France
 47.238.192.103:8888:Hong Kong
 51.159.98.170:431:France
-65.49.68.84:10238:United States
 23.106.56.11:425:United Kingdom
 51.159.97.108:911:France
 23.106.56.11:1007:United Kingdom
@@ -1733,7 +1574,6 @@
 51.159.97.108:905:France
 51.159.220.143:443:France
 51.159.221.44:483:France
-64.62.219.84:27271:United States
 51.159.220.143:423:France
 51.159.220.79:423:France
 51.159.225.125:423:France
@@ -1741,15 +1581,11 @@
 51.159.225.130:423:France
 51.159.220.143:483:France
 65.109.202.138:8443:Finland
-65.49.2.84:19646:United States
-65.49.2.84:45289:United States
 51.158.202.102:423:France
 51.158.200.102:423:France
-65.49.14.154:37598:United States
-64.62.219.84:15998:United States
+65.49.68.84:33593:United States
 65.109.40.163:8443:Finland
 23.106.56.43:19881:United Kingdom
-65.49.68.84:48909:United States
 51.158.202.56:423:France
 51.158.200.157:423:France
 51.158.204.46:423:France
@@ -1761,56 +1597,41 @@
 51.158.206.93:423:France
 51.159.220.143:1007:France
 51.159.97.249:436:France
-65.49.2.84:37186:United States
+64.62.219.84:19224:United States
 51.159.225.125:905:France
+65.49.14.154:41744:United States
 51.159.225.129:905:France
 51.159.225.130:905:France
 51.159.220.143:905:France
 51.159.220.79:905:France
-64.62.219.84:62538:United States
-65.49.14.154:59198:United States
+65.49.2.84:17947:United States
 51.158.204.180:443:France
-65.49.14.154:38093:United States
 51.159.221.44:1287:France
-64.62.219.84:29265:United States
-65.49.14.154:13157:United States
-65.49.2.84:22563:United States
-65.49.2.84:24448:United States
+65.49.2.84:27039:United States
 167.235.198.62:443:Germany
-65.49.2.84:29265:United States
-65.49.14.154:59754:United States
-65.49.14.154:52235:United States
 51.159.220.143:425:France
-65.49.14.154:35345:United States
-65.49.68.84:57955:United States
-65.49.14.154:41353:United States
-64.62.219.84:61910:United States
-65.49.14.154:62904:United States
-65.49.14.154:49098:United States
-65.49.68.84:35248:United States
-65.49.14.154:15427:United States
-65.49.14.154:29909:United States
-65.49.14.154:34169:United States
+65.49.14.154:25405:United States
+65.49.68.84:41345:United States
+65.49.68.84:50301:United States
 51.158.204.180:431:France
-65.49.14.154:58145:United States
+65.49.68.84:56900:United States
 51.158.204.46:431:France
 51.158.204.131:431:France
 51.158.206.33:431:France
 51.158.206.83:431:France
 51.158.206.91:431:France
 51.158.206.93:431:France
-51.158.202.217:431:France
 51.158.202.102:431:France
 51.158.202.56:431:France
 51.158.200.157:431:France
 51.158.200.127:431:France
 51.158.200.102:431:France
-65.49.68.84:60917:United States
-104.129.194.38:11682:United States
-65.49.68.84:18640:United States
+65.49.68.84:34559:United States
+64.62.219.84:47379:United States
+65.49.2.84:27274:United States
 51.159.225.129:431:France
+65.49.2.84:28481:United States
 51.158.204.180:905:France
-64.62.219.84:52367:United States
 51.158.204.46:905:France
 51.158.204.131:905:France
 51.159.225.125:431:France
@@ -1826,94 +1647,48 @@
 51.158.200.157:905:France
 51.158.200.127:905:France
 51.158.200.102:905:France
-65.49.2.84:56797:United States
-65.49.68.84:24707:United States
-65.49.14.154:41667:United States
-65.49.14.154:63011:United States
-65.49.2.84:52312:United States
-65.49.68.84:52615:United States
-65.49.2.84:30594:United States
-64.62.219.84:48155:United States
-65.49.14.154:58823:United States
-65.49.2.84:42150:United States
-65.49.2.84:25043:United States
+65.49.68.84:14282:United States
+65.49.2.84:54649:United States
+65.49.68.84:34037:United States
+65.49.14.154:13247:United States
+65.49.14.154:36963:United States
+65.49.68.84:50581:United States
 51.158.206.91:905:France
-65.49.2.84:53505:United States
 51.159.225.130:431:France
-65.49.68.84:48181:United States
-64.62.219.84:33919:United States
-65.49.14.154:17801:United States
-64.62.219.84:35982:United States
-65.49.14.154:57838:United States
-65.49.14.154:56005:United States
-65.49.14.154:48859:United States
-64.62.219.84:32243:United States
-65.49.68.84:63708:United States
-65.49.14.154:35059:United States
-65.49.14.154:23783:United States
-65.49.2.84:42079:United States
-65.49.14.154:38496:United States
-65.49.68.84:48439:United States
-64.62.219.84:53161:United States
+65.49.68.84:56483:United States
+65.49.2.84:59457:United States
+65.49.14.154:34555:United States
+64.62.219.84:27067:United States
+65.49.14.154:21684:United States
+65.49.14.154:32193:United States
+65.49.2.84:50641:United States
 65.109.202.138:1080:Finland
-64.62.219.84:41895:United States
-65.49.2.84:14720:United States
-64.62.219.84:26357:United States
-65.49.68.84:22338:United States
-65.49.68.84:10908:United States
-64.62.219.84:10551:United States
-65.49.68.84:12414:United States
-65.49.2.84:49557:United States
-65.49.68.84:34277:United States
-64.62.219.84:54173:United States
-64.62.219.84:13659:United States
-65.49.68.84:50257:United States
-65.49.2.84:36010:United States
-65.49.14.154:23202:United States
-64.62.219.84:11111:United States
-64.62.219.84:38777:United States
-64.62.219.84:34040:United States
-65.49.68.84:21520:United States
-64.62.219.84:37444:United States
-65.49.14.154:14737:United States
-65.49.68.84:59223:United States
-65.49.14.154:58299:United States
+65.49.2.84:27514:United States
+65.49.68.84:62338:United States
+65.49.68.84:59195:United States
+64.62.219.84:22725:United States
+65.49.14.154:52299:United States
+65.49.14.154:27196:United States
+65.49.2.84:34199:United States
 117.252.95.60:443:India
-65.49.68.84:14875:United States
-65.49.68.84:27959:United States
-65.49.2.84:58900:United States
-65.49.68.84:63349:United States
-64.62.219.84:38698:United States
-65.49.2.84:35683:United States
-64.62.219.84:26111:United States
-65.49.14.154:36321:United States
-65.49.68.84:50200:United States
-64.62.219.84:47090:United States
-65.49.2.84:10323:United States
-64.62.219.84:42652:United States
-65.49.14.154:45985:United States
-65.49.14.154:38527:United States
-65.49.2.84:16238:United States
-65.49.14.154:43742:United States
-65.49.14.154:52843:United States
+65.49.14.154:54791:United States
+65.49.2.84:28021:United States
+65.49.14.154:40275:United States
+65.49.2.84:51435:United States
+65.49.14.154:54635:United States
+65.49.14.154:16519:United States
 51.159.221.44:1015:France
 51.159.220.143:1015:France
 47.243.181.85:8083:Singapore
 51.159.220.143:1083:France
-65.49.2.84:11843:United States
 51.161.79.152:8888:Canada
 47.243.181.85:55013:Taiwan
-206.188.212.230:8443:United States
-205.178.144.166:8443:United States
 51.159.220.143:1287:France
-205.178.137.100:8447:United States
-206.188.212.64:8443:United States
 192.95.39.76:8443:United States
 198.50.152.217:8443:United States
 51.159.97.249:905:France
 51.159.220.143:921:France
 51.159.220.143:436:France
-205.178.137.234:8443:United States
 51.159.97.249:471:France
 51.159.220.143:471:France
 51.159.220.143:726:France
@@ -1923,7 +1698,6 @@
 185.53.129.141:9090:The Netherlands
 51.159.225.125:443:France
 51.159.225.125:471:France
-65.49.14.154:43556:United States
 51.159.225.125:1287:France
 51.159.225.125:838:France
 51.159.220.143:838:France
@@ -1933,8 +1707,8 @@
 51.159.220.143:461:France
 85.10.199.48:443:Germany
 51.159.225.129:443:France
+64.62.219.84:46218:United States
 196.1.93.16:443:Senegal
-65.49.2.84:25188:United States
 51.158.206.33:461:France
 51.158.206.83:461:France
 51.158.206.93:461:France
@@ -1956,7 +1730,6 @@
 51.159.220.143:901:France
 51.159.225.150:423:France
 94.23.9.170:443:France
-65.49.68.84:47807:United States
 65.109.202.138:1081:Finland
 51.158.204.180:461:France
 51.158.204.180:1015:France
@@ -1964,64 +1737,43 @@
 51.159.225.150:1015:France
 51.159.225.129:1015:France
 51.159.225.125:1015:France
-104.129.194.44:11709:United States
 51.159.225.129:1083:France
 51.159.225.150:1083:France
 51.159.225.130:1083:France
 51.158.204.180:1083:France
-205.178.137.141:8447:United States
-65.49.14.154:14617:United States
+64.62.219.84:14486:United States
 51.159.220.79:1083:France
-64.62.219.84:26890:United States
-206.188.212.103:8447:United States
 51.159.220.79:1015:France
 51.159.225.129:8118:France
-65.49.68.84:35665:United States
 51.159.225.150:443:France
 47.243.181.85:41795:Brazil
-65.49.14.154:30024:United States
+64.62.219.84:16984:United States
 51.158.204.180:483:France
 51.159.225.129:483:France
 51.159.225.150:483:France
 51.159.225.130:483:France
 51.159.225.125:483:France
 51.159.220.79:483:France
-65.49.2.84:63147:United States
 51.159.225.130:1287:France
 51.159.225.129:1287:France
 51.159.225.150:1287:France
 51.158.204.180:1287:France
-64.62.219.84:41527:United States
-205.178.186.237:8443:United States
 51.158.204.180:726:France
 49.12.189.119:8080:Germany
-65.49.14.154:64830:United States
-65.49.68.84:15557:United States
-64.62.219.84:10372:United States
-65.49.14.154:51277:United States
-65.49.2.84:34177:United States
-65.49.68.84:60603:United States
-65.49.14.154:50363:United States
-205.178.137.170:8443:United States
-206.188.204.146:8443:United States
-65.49.14.154:58636:United States
-65.49.14.154:46181:United States
-65.49.68.84:53183:United States
-64.62.219.84:16851:United States
-65.49.68.84:57901:United States
+65.49.68.84:29990:United States
+65.49.2.84:55404:United States
 51.159.225.130:443:France
-65.49.2.84:42383:United States
-65.49.68.84:50081:United States
-65.49.2.84:55875:United States
 87.255.196.143:443:Kazakhstan
+65.49.14.154:13785:United States
 51.159.225.130:921:France
+65.49.14.154:27203:United States
+65.49.14.154:64680:United States
 51.159.225.150:905:France
 51.158.204.180:921:France
 51.159.225.129:921:France
 51.158.200.157:921:France
 51.159.225.150:921:France
 51.159.225.125:921:France
-65.49.68.84:39437:United States
 51.159.225.130:461:France
 51.158.200.157:436:France
 51.159.225.129:436:France
@@ -2029,8 +1781,8 @@
 51.159.225.130:436:France
 51.159.225.150:436:France
 51.159.225.125:436:France
+65.49.2.84:28462:United States
 5.196.111.145:443:France
-205.178.136.190:8447:United States
 51.158.204.180:1022:France
 51.159.225.129:1022:France
 51.159.225.150:1022:France
@@ -2041,27 +1793,24 @@
 51.159.225.130:471:France
 51.159.225.150:471:France
 51.159.225.129:471:France
-205.178.137.238:8443:United States
 51.158.204.46:443:France
-65.49.14.154:63039:United States
+65.49.14.154:37087:United States
+65.49.68.84:63696:United States
 51.158.204.46:1007:France
 192.95.39.76:443:United States
 64.23.234.144:8888:United States
-65.49.2.84:26678:United States
+65.49.14.154:34989:United States
 51.159.220.79:443:France
-65.49.68.84:10374:United States
-205.178.186.148:8443:United States
-205.178.136.246:8447:United States
-65.49.68.84:20907:United States
-205.178.186.176:8447:United States
+104.129.194.44:11748:United States
+65.49.2.84:64611:United States
+64.62.219.84:16592:United States
 51.159.225.150:726:France
 51.159.220.79:726:France
 51.159.225.130:726:France
 51.158.204.46:726:France
 51.159.225.125:726:France
-65.49.2.84:12259:United States
-205.178.186.11:8443:United States
 47.243.181.85:41290:Taiwan
+205.178.137.88:8447:United States
 51.158.202.56:471:France
 47.243.181.85:41413:Japan
 51.159.220.79:461:France
@@ -2074,8 +1823,9 @@
 51.158.204.180:911:France
 51.159.225.150:911:France
 51.158.202.56:726:France
+65.49.2.84:41486:United States
+65.49.2.84:46203:United States
 51.158.204.46:425:France
-65.49.14.154:63495:United States
 51.159.220.79:921:France
 51.158.206.33:425:France
 51.158.202.102:911:France
@@ -2090,13 +1840,12 @@
 51.158.206.93:838:France
 51.159.225.196:443:France
 51.159.225.192:443:France
+65.49.14.154:43952:United States
 51.158.253.142:911:France
 51.159.225.195:443:France
 51.159.225.197:443:France
 36.92.193.189:443:Indonesia
-65.49.14.154:37275:United States
 51.158.204.46:1083:France
-180.166.128.182:13010:China
 51.159.220.79:1007:France
 51.158.253.15:911:France
 51.158.252.149:911:France
@@ -2109,11 +1858,9 @@
 51.159.225.150:425:France
 47.243.181.85:42327:United Kingdom
 51.158.206.93:1007:France
-65.49.2.84:10023:United States
 51.158.206.93:483:France
 51.159.225.129:838:France
 51.158.204.46:471:France
-209.38.106.92:443:The Netherlands
 51.159.225.129:726:France
 51.159.220.79:425:France
 51.159.225.129:425:France
@@ -2123,12 +1870,10 @@
 51.158.202.102:425:France
 51.159.225.196:425:France
 51.159.225.125:425:France
-205.178.144.147:8443:United States
 51.159.225.189:443:France
 51.158.202.102:428:France
 51.159.225.150:428:France
 51.159.225.129:428:France
-51.159.225.192:428:France
 51.159.225.196:428:France
 51.159.225.198:443:France
 51.159.225.189:428:France
@@ -2218,7 +1963,6 @@
 51.158.202.102:1007:France
 51.159.225.193:901:France
 51.159.225.172:901:France
-51.159.225.192:901:France
 51.159.220.79:901:France
 51.159.225.194:901:France
 51.159.226.127:901:France
@@ -2239,7 +1983,6 @@
 51.159.225.199:901:France
 51.158.202.102:901:France
 51.158.202.102:1022:France
-205.178.137.86:8447:United States
 51.158.204.46:1022:France
 51.159.225.194:423:France
 51.159.225.193:423:France
